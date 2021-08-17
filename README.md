@@ -6,7 +6,7 @@
 Udacity bikeshare
 
 ### Description
-Describe what your project is about and what it does
+The project analyzes bikeshare data from three data files from Washington, Chicago, and New York City. It calculates statistics on the most popular times, stations, and combinations of stations. You can choose the city and time frame to analyze.
 
 ### Files used
 Include the files used
