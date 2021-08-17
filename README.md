@@ -12,4 +12,4 @@ The project analyzes bikeshare data from three data files from Washington, Chica
 The files used for this project are: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Forked from https://github.com/udacity/pdsnd_github
