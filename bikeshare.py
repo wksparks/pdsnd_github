@@ -67,6 +67,7 @@ def get_month():
 
     """
     print("\nThere are only six months of data - January to June\n")
+    print("\nWe hope to add additional months soon")
     month = input("Please enter a value from 1 to 6 to specify the month, \n For example if you want January enter: 1 \n For June, enter 6:\n ")
 
     while month not in {'1','2','3','4','5','6'}:
